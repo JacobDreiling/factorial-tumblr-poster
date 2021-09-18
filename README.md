@@ -12,5 +12,6 @@ It was immensely satisfying to press one button and schedule the next ~200 posts
 # Links
 
 Rules for naming large numbers (up to a millinillion) - https://en.m.wikipedia.org/wiki/Names_of_large_numbers#Extensions_of_the_standard_dictionary_numbers<br>
+Factorial swing method - http://www.luschny.de/math/factorial/SwingFactorialSagePython.html<br>
 The blog that inspired mine - https://powersoftwo.tumblr.com<br>
 My factorial blog - https://allthefactorials.tumblr.com
